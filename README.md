@@ -18,14 +18,14 @@ cd tfm
 ````
 cp tfm /bin
 ````
-3a.
-
-````
-chmod +x tfm
-````
 
 4. Make file executable
 
 ````
 sudo chmod +x /bin/tfm
 ````
+
+# USAGE
+use arrow keys to move 
+use enter key to cd
+enter Menu to Copy, Paste, and view permissions
