@@ -1,2 +1,2 @@
-# tfm
-terminal file manager
+# Terminal File Manager
+
